@@ -10,6 +10,8 @@ body{
     padding: 20px 150px;
     background-color: #1F2937;
     color: white;
+    position: sticky;
+    top: 0;
 }
 .nav-links a{
     text-decoration: none;
